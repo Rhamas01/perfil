@@ -42,7 +42,7 @@ body.dark {
 }
 
 body {
-	background: red;
+	background: white;
 	overflow-x: hidden;
 	background-image: url("img/backgraund.png");
 }
